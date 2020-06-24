@@ -55,6 +55,7 @@ This project is aimed to help DevOps engineers to find the right tooling and res
 * [VSTS](https://www.visualstudio.com/team-services/) - Microsoft SaaS all-in-one software release tool
 * [Shippable](https://www.shippable.com/) - SaaS CI/CD 
 * [Teamcity](https://www.jetbrains.com/teamcity/) - CI/CD tool
+* [Humanitec](https://humanitec.com/) - Continuous Delivery API for Kubernetes-ready applications
 
 ### Communities
 
